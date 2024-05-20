@@ -1,0 +1,8 @@
+pandas
+streamlit
+pydeck
+requests
+beautifulsoup4
+selenium
+webdriver_manager
+python-dateutil
