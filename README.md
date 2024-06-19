@@ -21,7 +21,3 @@ streamlit run capstone_prototype.py
 - `capstone_prototype.py`: Streamlit application script.
 - `capstone_scraping_script.py`: Script for scraping tender data.
 - `requirements.txt`: List of required Python packages.
-
-# s1_Alisa_Aleksanyan
-Capstone_Automated Tender Identification System using Streamlit
-
